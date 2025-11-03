@@ -164,3 +164,4 @@ public class linked_list {
         System.out.println(pl.toStringList());
     }
 }
+
